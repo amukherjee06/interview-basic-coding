@@ -2,8 +2,6 @@ package com.arnab.java.basic.interview.coding.OopsConcept;
 
 /**
  * 
- * @author ARNAB
- * 
  * OBJECT - An entity that has properties and behaviors.
  * 			It has 3 features: -
  * 			a>Properties or Fields
@@ -51,8 +49,6 @@ public class ClassesAndObjectsWithConstructors {
 }
 
 /**
- * 
- * @author ARNAB
  * 
  * Employee has : -
  * 				1>Fields such as employee id,name,salary

@@ -2,8 +2,6 @@ package com.arnab.java.basic.interview.coding.OopsConcept;
 
 /**
  * 
- * @author ARNAB
- *
  *	- Static keyword in Java is mainly used for Memory management
  *	- Whenever a member is declared as static, it becomes the property of that particular class.
  *	which means object creation is not required for accessing the particular static member.
