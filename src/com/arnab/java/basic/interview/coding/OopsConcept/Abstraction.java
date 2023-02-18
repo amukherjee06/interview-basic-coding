@@ -35,7 +35,7 @@ abstract class Employee_Abstraction{
 	//in the concrete class
 	public abstract int computeMonthlySalary(int dailySalary);
 	
-	//Hiding the implementation of the Monthly Salary
+	//Hiding the implementation of the display method
 	//in the concrete class
 	public abstract void displayEmployeeInfo();
 }
